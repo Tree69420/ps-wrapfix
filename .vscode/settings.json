@@ -1,0 +1,13 @@
+{
+  "editor.insertSpaces": false,
+  "editor.formatOnSave": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "typescript.format.semicolons": "insert",
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+  },
+  "search.useIgnoreFiles": false,
+  "search.useGlobalIgnoreFiles": false,
+  "search.useParentIgnoreFiles": false
+}
